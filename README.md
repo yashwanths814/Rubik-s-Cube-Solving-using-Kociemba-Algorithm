@@ -14,7 +14,7 @@ A **3x3 Rubik’s Cube** is a mechanical puzzle invented by **Ernő Rubik** in 1
 - **26 smaller cube pieces** (*cubies*):  
   - **8 corner pieces** (3 stickers each)  
   - **12 edge pieces** (2 stickers each)  
-  - **6 fixed centers** (1 sticker each, determine face color)  
+  - **6 fixed centers** (1 sticker each, determine face color).  
 
 When solved, each face has a uniform color.  
 
