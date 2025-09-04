@@ -51,7 +51,7 @@ This method is widely used because it produces **short, efficient solutions** co
 - Solves any valid Rubik’s Cube scramble.  
 - Uses Kociemba’s Algorithm for efficiency.  
 - Provides move sequence in standard cube notation.  
-- Optimized to keep solutions under 20 moves.  
+- Optimized to keep solutions under 20 moves  
 
 ---
 
