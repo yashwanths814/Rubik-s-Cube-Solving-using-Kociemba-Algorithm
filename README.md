@@ -5,8 +5,6 @@
 This project implements a solver for the **3x3 Rubik’s Cube** using the **Kociemba Algorithm**.  
 The Kociemba algorithm is a two-phase solving algorithm that finds an **optimal or near-optimal solution** (usually under 20 moves) for any scrambled cube state.  
 
--------
-
 ## 🧩 What is a Rubik's Cube?  
 A **3x3 Rubik’s Cube** is a mechanical puzzle invented by **Ernő Rubik** in 1974. It consists of:  
 
@@ -14,7 +12,7 @@ A **3x3 Rubik’s Cube** is a mechanical puzzle invented by **Ernő Rubik** in 1
 - **26 smaller cube pieces** (*cubies*):  
   - **8 corner pieces** (3 stickers each)  
   - **12 edge pieces** (2 stickers each)  
-  - **6 fixed centers** (1 sticker each, determine face color)  
+  - **6 fixed centers** (1 sticker each, determine face color).  
 
 When solved, each face has a uniform color.  
 
@@ -36,6 +34,7 @@ This method is widely used because it produces **short, efficient solutions** co
 ---
 
 ## 🎮 Cube Move Notations :  
+
 - **U** = Up face clockwise  
 - **D** = Down face clockwise  
 - **L** = Left face clockwise  
@@ -51,7 +50,7 @@ This method is widely used because it produces **short, efficient solutions** co
 - Solves any valid Rubik’s Cube scramble.  
 - Uses Kociemba’s Algorithm for efficiency.  
 - Provides move sequence in standard cube notation.  
-- Optimized to keep solutions under 20 moves.  
+- Optimized to keep solutions under 20 moves  
 
 ---
 
