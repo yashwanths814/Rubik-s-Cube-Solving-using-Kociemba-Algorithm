@@ -35,7 +35,7 @@ This method is widely used because it produces **short, efficient solutions** co
 
 ---
 
-## 🎮 Cube Move Notations: 
+## 🎮 Cube Move Notations
 - **U** = Up face clockwise  
 - **D** = Down face clockwise  
 - **L** = Left face clockwise  
